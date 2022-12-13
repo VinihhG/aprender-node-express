@@ -1,0 +1,14 @@
+{
+  "name": "aprender-api-express",
+  "version": "1.0.0",
+  "description": "Somente para aprender a usar Express!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius Guimarães",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
